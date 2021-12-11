@@ -138,7 +138,7 @@
   background-color: #FF4500 }
 .button.button-reddit:hover,
 .button.button-reddit:hover:before {
-    content: 'Mi subreddit, como un pequeño foro para hacer preguntas sobre mis videos o cualquier tema relacionado con el contenido de mi canal.';
+    content: 'Mi subreddit, como un pequeño foro para hacer preguntas sobre mis servicios cualquier tema relacionado con el contenido de mi canal.';
     white-space: initial; }
 
 /* Mail */
@@ -165,5 +165,5 @@
   background-color: #fffc00 }
 .button.button-sponsors:hover,
 .button.button-sponsors:hover:before {
-    content: 'Si quieres trabajar conmigo, patrocinando algún video en mi canal, te recomiendo que leas esta página primero.';
+    content: 'Si quieres patrocinar, contratar algun evento o servio , te recomiendo que leas esta página primero.';
     white-space: initial; }
